@@ -25,8 +25,8 @@
   Run `npm install` to install all dependencies. To use the application locally, run `node server.js` in your CLI, and then open `http://localhost:3000` in your browser. The Noteworthy app is [live on Heroku](https://pure-headland-33466.herokuapp.com/) for you to use as well.
   
   # Preview
+  ![Application Preview](Noteworthy.gif)
 
-  
   # Deployed Link
   [Noteworthy](https://pure-headland-33466.herokuapp.com/)
 
